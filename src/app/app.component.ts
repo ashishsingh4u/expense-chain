@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Block } from './block.helper';
 
 @Component({
   selector: 'app-root',
